@@ -1,0 +1,336 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:6
+"gyJIw^R#}T"	ab	Dativ	Masculine	Ich gehe ab {{c1::dem}} Montag ins Büro.	
+I_Tenm{uJu	abseits	Genitiv	Masculine	Der Ball liegt abseits {{c1::des}} {{c1::Spielfelds::Spielfeld}}.	
+k&hV9>TaN5	an	Dativ	Masculine	Der Hund sitzt an {{c1::dem}} Baum.	leech
+c2jV>C/!`T	an	Akkusativ	Masculine	Ich gehe an {{c1::den}} Fluss.	
+jWUd;DgZ/q	angesichts	Genitiv	Masculine	Angesichts {{c1::des}} {{c1::Regens::Regen}} bleibe ich zu Hause.	
+LD7)o>2IJ`	anhand	Genitiv	Masculine	Anhand {{c1::des}} {{c1::Beispiels::Beispiel}} lernt er viel.	
+"j+L#)wvqT`"	anlässlich	Genitiv	Masculine	Anlässlich {{c1::des}} {{c1::Geburtstags::Geburtstag}} gibt es eine Feier.	
+t;9~;!.qUF	anstelle	Genitiv	Masculine	Anstelle {{c1::des}} {{c1::Apfels::Apfel}} esse ich eine Orange.	
+csepp99a:H	auf	Dativ	Masculine	Der Hund ist auf {{c1::dem}} Tisch.	leech
+ByHV+Vdi4x	auf	Akkusativ	Masculine	Ich lege das Buch auf {{c1::den}} Tisch.	leech
+v$,t%T9Wvw	aufgrund	Genitiv	Masculine	Aufgrund {{c1::des}} {{c1::Sturms::Sturm}} bleiben wir zu Hause.	
+juPzDw=utT	aus	Dativ	Masculine	Er kommt aus {{c1::dem}} Haus.	
+o_/,8zFx-!	außerhalb	Genitiv	Masculine	Außerhalb {{c1::des}} {{c1::Parks::Park}} ist es ruhig.	
+l)}(pG;dB,	bei	Dativ	Masculine	Der Hund schläft bei {{c1::dem}} Fenster.	leech
+"GUd#*!WY@M"	beidseits / beiderseits	Genitiv	Masculine	Beidseits {{c1::des}} {{c1::Flusses::Fluss}} gibt es Bäume.	
+t=HjPuPtX	bezüglich	Genitiv	Masculine	Bezüglich {{c1::des}} {{c1::Problems::Problem}} gibt es noch keine Lösung.	
+"k~F*N)sdr#"	binnen	Genitiv	Masculine	Er muss binnen {{c1::des}} {{c1::Monats::Monat}} zahlen.	
+Nl/mrG$Vay	bis	Akkusativ	Masculine	Ich warte bis {{c1::den}} Abend.	leech
+B2O^hs8r*I	dank	Genitiv	Masculine	Dank {{c1::des}} {{c1::Wetters::Wetter}} haben wir den Ausflug verschoben.	
+fuA[w;]8hR	diesseits	Genitiv	Masculine	Diesseits {{c1::des}} {{c1::Flusses::Fluss}} gibt es viele Blumen.	
+t$+f~3}IWz	durch	Akkusativ	Masculine	Ich gehe durch {{c1::den}} Wald.	leech
+EbO$]-f1Dc	entgegen	Dativ	Masculine	Er geht entgegen {{c1::dem}} Wind.	leech
+x,V1_{d~Z)	entlang	Akkusativ	Masculine	Wir gehen entlang {{c1::den}} Fluss.	
+mKJ*Liqkex	entlang	Genitiv	Masculine	Entlang {{c1::des}} {{c1::Berges::Berg}} gibt es viele Wanderwege.	
+(^;lo^,]k	entsprechend	Dativ	Masculine	Er verhält sich entsprechend {{c1::dem}} Plan.	
+x{N97Lgcg=	für	Akkusativ	Masculine	Ich kaufe ein Geschenk für {{c1::den}} Mann.	leech
+zcij0{nuMA	gegen	Akkusativ	Masculine	Er kämpft gegen {{c1::den}} Wind.	leech
+KkB92XA7,t	gegenüber	Dativ	Masculine	Der Park ist gegenüber {{c1::dem}} Museum.	
+Nu(b~8Oq&4	gemäß	Dativ	Masculine	Gemäß {{c1::dem}} Vertrag muss er zahlen.	leech
+sPiDMzO*-X	hinsichtlich	Genitiv	Masculine	Hinsichtlich {{c1::des}} {{c1::Themas::Thema}} gibt es noch viele Fragen.	
+I;>.|wM$[O	hinter	Dativ	Masculine	Der Hund schläft hinter {{c1::dem}} Haus.	leech
+u).>77.Hx0	hinter	Akkusativ	Masculine	Ich gehe hinter {{c1::den}} Baum.	leech
+bu,b|$x?I5	in	Dativ	Masculine	Ich bin in {{c1::dem}} Zimmer.	
+HiRF6wVr56	in	Akkusativ	Masculine	Ich gehe in {{c1::den}} Garten.	
+G9EAKJr$>S	infolge	Genitiv	Masculine	Infolge {{c1::des}} {{c1::Sturms::Sturm}} blieb die Straße gesperrt.	
+d6Y8W3vxn>	inmitten	Genitiv	Masculine	Inmitten {{c1::des}} {{c1::Waldes::Wald}} gibt es viele Tiere.	
+e*nqr9|njp	innerhalb	Genitiv	Masculine	Innerhalb {{c1::des}} {{c1::Hauses::Haus}} ist es warm.	
+H5</6b<Ui+	jenseits	Genitiv	Masculine	Jenseits {{c1::des}} {{c1::Flusses::Fluss}} liegt das Dorf.	
+g.yg~={V.&	kraft	Genitiv	Masculine	Kraft {{c1::des}} {{c1::Gesetzes::Gesetz}} muss er bezahlen.	
+Ec2qz^8y!j	lang	Akkusativ	Masculine	Der Weg geht lang {{c1::den}} Fluss.	
+KHb[cWwukz	laut	Dativ	Masculine	Laut {{c1::dem}} Bericht ist er der Beste.	leech
+tC)IY)mj|/	laut	Genitiv	Masculine	Laut {{c1::des}} {{c1::Dokuments::Dokument}} muss er unterschreiben.	
+zpu*ovR2SR	mangels	Genitiv	Masculine	Mangels {{c1::des}} {{c1::Geldes::Geld}} konnte er nicht kaufen.	
+t?Fh4B9UBo	mit	Dativ	Masculine	Er fährt mit {{c1::dem}} Auto.	
+N-@j^g,{B_	mithilfe	Genitiv	Masculine	Mithilfe {{c1::des}} {{c1::Computers::Computer}} konnte ich das Problem lösen.	
+G)G@j;7pTm	mittels	Genitiv	Masculine	Mittels {{c1::des}} {{c1::Telefons::Telefon}} konnte ich ihn erreichen.	
+O_Er6@W(qC	nach	Dativ	Masculine	Ich gehe nach {{c1::dem}} Spiel nach Hause.	
+ob~z+av)9m	neben	Dativ	Masculine	Der Hund schläft neben {{c1::dem}} Tisch.	
+tD<DfxQIJE	neben	Akkusativ	Masculine	Ich stelle das Buch neben {{c1::den}} Stuhl.	leech
+DT+nV+Mq6s	oberhalb	Genitiv	Masculine	Oberhalb {{c1::des}} {{c1::Berges::Berg}} liegt die Hütte.	
+GxsDe8owsw	ohne	Akkusativ	Masculine	Ich gehe ohne {{c1::den}} Hund spazieren.	leech
+2>&tz/~I6	seit	Dativ	Masculine	Er arbeitet seit {{c1::dem}} Morgen.	
+mHynqjk3Ps	seitens	Genitiv	Masculine	Seitens {{c1::des}} {{c1::Direktors::Direktor}} gab es keine Einwände.	
+JAg&satLg	statt / anstatt	Genitiv	Masculine	Statt {{c1::des}} {{c1::Essens::Essen}} gab es nur Wasser.	
+r9:s(^cEi9	trotz	Dativ	Masculine	Trotz {{c1::dem}} Regen gehen wir spazieren.	leech
+z7]f?yawm,	trotz	Genitiv	Masculine	Trotz {{c1::des}} {{c1::Sturms::Sturm}} sind wir gewandert.	
+yFKYj,yW:X	über	Dativ	Masculine	Der Vogel fliegt über {{c1::dem}} Baum.	leech
+v-Bz05]ZNg	über	Akkusativ	Masculine	Ich gehe über {{c1::den}} Fluss.	
+p?LeA4o{zx	um	Akkusativ	Masculine	Ich laufe um {{c1::den}} Tisch.	leech
+Heq=YtzUk&	um jmdn./etw. willen	Genitiv	Masculine	Um {{c1::des}} {{c1::Freundes::Freund}} willen hilft er.	
+c&Z0y%]$`m	ungeachtet	Genitiv	Masculine	Ungeachtet {{c1::des}} {{c1::Erfolges::Erfolg}} blieb er bescheiden.	
+bxQn>V&6i-	unter	Dativ	Masculine	Er ist unter {{c1::dem}} Tisch versteckt.	
+q(T&-<p&8G	unter	Akkusativ	Masculine	Ich gehe unter {{c1::den}} Baum.	leech
+dZ.TH`P^T9	unterhalb	Genitiv	Masculine	Unterhalb {{c1::des}} {{c1::Berges::Berg}} gibt es ein Tal.	
+Ly.?06lO$q	unweit	Genitiv	Masculine	Unweit {{c1::des}} {{c1::Marktes::Markt}} gibt es ein Café.	
+s`8*@SngZ@	von	Dativ	Masculine	Ich komme von {{c1::dem}} Markt.	
+y`YoQOA,LO	vonseiten	Genitiv	Masculine	Vonseiten {{c1::des}} {{c1::Unternehmens::Unternehmen}} gab es keine Einwände.	
+yt]N[$z9?	vor	Dativ	Masculine	Der Hund schläft vor {{c1::dem}} Haus.	leech
+uYA/6UR/nE	vor	Akkusativ	Masculine	Ich stelle das Buch vor {{c1::den}} Stuhl.	leech
+IC{td`d3^H	während	Dativ	Masculine	Während {{c1::dem}} Film ist es ruhig.	leech
+M5)CIN->!/	während	Genitiv	Masculine	Während {{c1::des}} {{c1::Gesprächs::Gespräch}} lernte er viel.	
+BR[exQDU}2	wegen	Dativ	Masculine	Wegen {{c1::dem}} Regen bleiben wir zu Hause.	leech
+hn&7o$YF,w	wegen	Genitiv	Masculine	Wegen {{c1::des}} {{c1::Fehlens::Fehlen}} konnte er nicht kommen.	
+dQGxcX4kK~	wider	Akkusativ	Masculine	Er kämpft wider {{c1::den}} Wind.	leech
+Hgt7W+p3V?	zeit	Genitiv	Masculine	Zeit {{c1::des}} {{c1::Wandels::Wandel}} ist immer spannend.	
+nb8(C7sFbN	zu	Dativ	Masculine	Ich gehe zu {{c1::dem}} Arzt.	
+h@u|5>n$6F	zufolge	Dativ	Masculine	Zufolge {{c1::dem}} Bericht ist der Fall gelöst.	leech
+m~W6<Fh1wi	zugunsten	Genitiv	Masculine	Zugunsten {{c1::des}} {{c1::Projekts::Projekt}} wurden neue Ressourcen bereitgestellt.	
+H$w;Q+-Z>s	zuliebe	Dativ	Masculine	Er tut es zuliebe {{c1::dem}} Freund.	leech
+u8fI-BQ6l|	zuungunsten	Genitiv	Masculine	Zuungunsten {{c1::des}} {{c1::Planes::Plan}} gab es viele Schwierigkeiten.	
+E&pj-BA5b&	zwecks	Genitiv	Masculine	Zwecks {{c1::des}} {{c1::Meetings::Meeting}} müssen wir früher kommen.	
+v|jxrMJ:hj	zwischen	Dativ	Masculine	Der Hund schläft zwischen {{c1::dem}} Sofa und {{c1::dem}} Stuhl.	leech
+d{llKNz5n[	zwischen	Akkusativ	Masculine	Ich stelle den Tisch zwischen {{c1::den}} Stuhl und {{c2::den}} Schrank.	leech
+los5Ru6-{;	ab	Dativ	Feminine	Ab {{c1::der}} Woche fange ich an zu arbeiten.	
+tMU:v$fV49	abseits	Genitiv	Feminine	Der Hund rennt abseits {{c1::der}} Straße.	
+M-CcghIpzp	an	Dativ	Feminine	Die Katze schläft an {{c1::der}} Tür.	leech
+xPzwunr-]	an	Akkusativ	Feminine	Ich gehe an {{c1::die}} Wand.	leech
+AS_~n:|7-R	angesichts	Genitiv	Feminine	Angesichts {{c1::der}} Sonne trage ich eine Brille.	
+Ll[?n`=V$g	anhand	Genitiv	Feminine	Anhand {{c1::der}} Frage kann ich antworten.	
+jaET,8&W?4	anlässlich	Genitiv	Feminine	Anlässlich {{c1::der}} Hochzeit gab es viele Gäste.	
+QMzyTC_@F-	anstelle	Genitiv	Feminine	Anstelle {{c1::der}} Zeitung liest sie ein Buch.	
+Oy$XrrKfk<	auf	Dativ	Feminine	Das Glas steht auf {{c1::der}} Fensterbank.	leech
+yc{KLa5Q%?	auf	Akkusativ	Feminine	Ich stelle die Tasse auf {{c1::die}} Fensterbank.	leech
+OP|;:/8V{[	aufgrund	Genitiv	Feminine	Aufgrund {{c1::der}} Arbeit hat sie wenig Zeit.	
+Go+rAT62RO	aus	Dativ	Feminine	Sie geht aus {{c1::der}} Küche.	leech
+b:~/KN$z.v	außerhalb	Genitiv	Feminine	Außerhalb {{c1::der}} Stadt gibt es viel Natur.	
+u5CN8n<DVp	bei	Dativ	Feminine	Sie wartet bei {{c1::der}} Tür.	leech
+f|I2p%-/r%	beidseits / beiderseits	Genitiv	Feminine	Beiderseits {{c1::der}} Straße stehen Autos.	
+Op>mT8@8C	bezüglich	Genitiv	Feminine	Bezüglich {{c1::der}} Arbeit habe ich Fragen.	
+"yK:`O94O#-"	binnen	Genitiv	Feminine	Sie muss binnen {{c1::der}} Woche antworten.	
+"kd[k#N_Dh{"	bis	Akkusativ	Feminine	Sie bleibt bis {{c1::die}} Tür geschlossen ist.	
+M4ltCP,~]>	dank	Genitiv	Feminine	Dank {{c1::der}} Hilfe konnte sie die Prüfung bestehen.	
+e2i;t`>uCf	diesseits	Genitiv	Feminine	Diesseits {{c1::der}} Mauer stehen Bäume.	
+z>lDyF[ELW	durch	Akkusativ	Feminine	Sie läuft durch {{c1::die}} Straße.	
+i>cc?Pk8]1	entgegen	Dativ	Feminine	Sie läuft entgegen {{c1::der}} Wand.	leech
+d!&p<itW?:	entlang	Akkusativ	Feminine	Sie fährt entlang {{c1::die}} Straße.	
+I2tga2jD:l	entlang	Genitiv	Feminine	Entlang {{c1::der}} Küste gibt es viele Hotels.	leech
+Q1CgSEwJG-	entsprechend	Dativ	Feminine	Sie spricht entsprechend {{c1::der}} Situation.	leech
+nbFYD6@xul	für	Akkusativ	Feminine	Ich kaufe Blumen für {{c1::die}} Frau.	leech
+E1C%@@lq/D	gegen	Akkusativ	Feminine	Sie kämpft gegen {{c1::die}} Zeit.	leech
+"gS`#LfZkKj"	gegenüber	Dativ	Feminine	Die Bank steht gegenüber {{c1::der}} Post.	leech
+HpYl.+fi?:	gemäß	Dativ	Feminine	Gemäß {{c1::der}} Regel darfst du nicht rauchen.	leech
+Crux;w&2.(	hinsichtlich	Genitiv	Feminine	Hinsichtlich {{c1::der}} Situation haben wir keine Antwort.	
+"l]JcBL856#"	hinter	Dativ	Feminine	Die Tasche liegt hinter {{c1::der}} Tür.	
+NwMieHGJ,2	hinter	Akkusativ	Feminine	Sie läuft hinter {{c1::die}} Mauer.	
+DAD*(<(L5T	in	Dativ	Feminine	Sie ist in {{c1::der}} Küche.	
+GX.D.?V$/v	in	Akkusativ	Feminine	Sie geht in {{c1::die}} Schule.	leech
+"zu:!!#`O}#"	infolge	Genitiv	Feminine	Infolge {{c1::der}} Entscheidung gab es viele Proteste.	
+L>PQZ(i]Wk	inmitten	Genitiv	Feminine	Inmitten {{c1::der}} Nacht war es ruhig.	
+KNGUo`Tx>M	innerhalb	Genitiv	Feminine	Innerhalb {{c1::der}} Stadt gibt es viele Sehenswürdigkeiten.	
+lXn5FC/$bT	jenseits	Genitiv	Feminine	Jenseits {{c1::der}} Mauer gibt es ein Feld.	leech
+Q*3o.%CDFr	kraft	Genitiv	Feminine	Kraft {{c1::der}} Vereinbarung haben wir uns geeinigt.	
+hoQ4g7Xw2O	lang	Akkusativ	Feminine	Sie fährt lang {{c1::die}} Straße.	
+F!{RvxEZkK	laut	Dativ	Feminine	Laut {{c1::der}} Zeitung gibt es heute Regen.	
+cZ[=Ev;U9y	laut	Genitiv	Feminine	Laut {{c1::der}} Anweisung müssen wir warten.	
+zEP6-rV;nU	mangels	Genitiv	Feminine	Mangels {{c1::der}} Zeit habe ich das Treffen abgesagt.	
+P7V%?!Mo8I	mit	Dativ	Feminine	Sie geht mit {{c1::der}} Freundin einkaufen.	leech
+h)la&/-0zA	mithilfe	Genitiv	Feminine	Mithilfe {{c1::der}} App habe ich den Weg gefunden.	
+t!_l{f)5/E	mittels	Genitiv	Feminine	Mittels {{c1::der}} Anleitung fand sie die Lösung.	
+BJ-h*(g60L	nach	Dativ	Feminine	Sie geht nach {{c1::der}} Arbeit nach Hause.	
+w=cFgKt8!6	neben	Dativ	Feminine	Die Tasche steht neben {{c1::der}} Wand.	leech
+JoRlaQtKSt	neben	Akkusativ	Feminine	Sie legt {{c1::die}} Tasche neben die Tür.	leech
+D73lOxlRbJ	oberhalb	Genitiv	Feminine	Oberhalb {{c1::der}} Straße gibt es einen Wald.	
+v=Q=}R91FS	ohne	Akkusativ	Feminine	Sie fährt ohne {{c1::die}} Kinder in den Urlaub.	
+N<oW-Mb<0$	seit	Dativ	Feminine	Sie ist seit {{c1::der}} Nacht weg.	
+G:*6u/:WsZ	seitens	Genitiv	Feminine	Seitens {{c1::der}} Schule wurden neue Regeln eingeführt.	
+Ap4}c<&z9-	statt / anstatt	Genitiv	Feminine	Anstatt {{c1::der}} Blumen kaufte sie Schokolade.	
+Drpx,4qKcv	trotz	Dativ	Feminine	Trotz {{c1::der}} Kälte trinkt sie ihren Kaffee.	
+w0^6f]&]}l	trotz	Genitiv	Feminine	Trotz {{c1::der}} Gefahr ist sie weitergegangen.	
+NrGd&p.=E|	über	Dativ	Feminine	Die Lampe hängt über {{c1::der}} Tür.	leech
+N)/EyFAB0(	über	Akkusativ	Feminine	Sie springt über {{c1::die}} Mauer.	
+CahI++m{,N	um	Akkusativ	Feminine	Sie geht um {{c1::die}} Ecke.	
+t%wn2cs[SU	um jmdn./etw. willen	Genitiv	Feminine	Um {{c1::der}} Familie willen geht sie nach Hause.	leech
+wO^jj=9%pu	ungeachtet	Genitiv	Feminine	Ungeachtet {{c1::der}} Warnung ging sie in den Wald.	
+B5D4oN.B*f	unter	Dativ	Feminine	Sie liegt unter {{c1::der}} Decke.	leech
+rIEY.FlQ&p	unter	Akkusativ	Feminine	Sie geht unter {{c1::die}} Brücke.	
+g&hj/X/P5O	unterhalb	Genitiv	Feminine	Unterhalb {{c1::der}} Mauer wachsen Blumen.	
+m>6`X4W`:c	unweit	Genitiv	Feminine	Unweit {{c1::der}} Schule liegt ein Park.	leech
+saC8@9&f1H	von	Dativ	Feminine	Sie geht von {{c1::der}} Schule nach Hause.	
+mLEL+5/vj&	vonseiten	Genitiv	Feminine	Vonseiten {{c1::der}} Regierung gab es keine Stellungnahme.	
+A>Lx%&(5{s	vor	Dativ	Feminine	Sie wartet vor {{c1::der}} Tür.	leech
+"o]#nqL4?Mk"	vor	Akkusativ	Feminine	Sie stellt die Tasche vor {{c1::die}} Tür.	leech
+D.7[{bGg>^	während	Dativ	Feminine	Während {{c1::der}} Pause kann man essen.	
+AE2x&|+PA%	während	Genitiv	Feminine	Während {{c1::der}} Besprechung war sie ruhig.	
+"m/#pot9is1"	wegen	Dativ	Feminine	Wegen {{c1::der}} Arbeit muss sie bleiben.	
+IP=>&IyM_1	wegen	Genitiv	Feminine	Wegen {{c1::der}} Krankheit musste sie zu Hause bleiben.	
+f3G03k+~y&	wider	Akkusativ	Feminine	Sie läuft wider {{c1::die}} Strömung.	
+k=1./Azv64	zeit	Genitiv	Feminine	Zeit {{c1::der}} Veränderungen kann schwierig sein.	
+p&h3jVndPK	zu	Dativ	Feminine	Sie fährt zu {{c1::der}} Schule.	
+K`9f:PgV0f	zufolge	Dativ	Feminine	Zufolge {{c1::der}} Analyse gibt es keine weiteren Fragen.	
+OKu(}c6lr_	zugunsten	Genitiv	Feminine	Zugunsten {{c1::der}} Idee hat er viel investiert.	
+Ochru$5|v$	zuliebe	Dativ	Feminine	Sie geht zuliebe {{c1::der}} Familie nach Hause.	
+QCsg]N|_gK	zuungunsten	Genitiv	Feminine	Zuungunsten {{c1::der}} Entscheidung gab es viele Proteste.	
+z1Kk+0g$Zh	zwecks	Genitiv	Feminine	Zwecks {{c1::der}} Untersuchung ist sie in die Stadt gefahren.	
+oN{p/NIq2t	zwischen	Dativ	Feminine	Die Tasche liegt zwischen {{c1::der}} Wand und der Tür.	leech
+iQQh@@6K[Z	zwischen	Akkusativ	Feminine	Sie stellt die Lampe zwischen {{c1::die}} Tische.	
+Ge)t7f8gbz	ab	Dativ	Neutrum	Ab {{c1::dem}} Morgen wird es kalt.	leech
+O$$&G~w]2-	abseits	Genitiv	Neutrum	Das Buch ist abseits {{c1::des}} {{c1::Tisches::Tisch}}.	
+B_rZ^W}RrA	an	Dativ	Neutrum	Der Stuhl steht an {{c1::dem}} Tisch.	leech
+veXxZl<Iwe	an	Akkusativ	Neutrum	Er legt das Buch an {{c1::den}} Tisch.	leech
+H^/4sZ*&:j	angesichts	Genitiv	Neutrum	Angesichts {{c1::des}} {{c1::Wetters::Wetter}} können wir draußen bleiben.	
+fh)WaY_{P6	anhand	Genitiv	Neutrum	Anhand {{c1::des}} {{c1::Textes::Text}} verstehe ich die Antwort.	
+At,sEo4FiO	anlässlich	Genitiv	Neutrum	Anlässlich {{c1::des}} {{c1::Events::Event}} wurden Geschenke verteilt.	
+"GQ%#DGb],D"	anstelle	Genitiv	Neutrum	Anstelle {{c1::des}} {{c1::Bildes::Bild}} hängt ein Spiegel.	
+Gs&Y(CD_>}	auf	Dativ	Neutrum	Der Stift liegt auf {{c1::dem}} Schreibtisch.	
+crVt=jhs`*	auf	Akkusativ	Neutrum	Ich lege den Schlüssel auf {{c1::den}} Tisch.	leech
+A|o0S88Nn5	aufgrund	Genitiv	Neutrum	Aufgrund {{c1::des}} {{c1::Wetters::Wetter}} verschieben wir den Ausflug.	
+eg9XVPSx?g	aus	Dativ	Neutrum	Das Bild hängt aus {{c1::dem}} Rahmen.	leech
+Md6/oFCfdi	außerhalb	Genitiv	Neutrum	Außerhalb {{c1::des}} {{c1::Raums::Raum}} ist es kalt.	
+z/eiYZV$~a	bei	Dativ	Neutrum	Das Buch liegt bei {{c1::dem}} Stuhl.	leech
+"qlzN#PT-!$"	beidseits / beiderseits	Genitiv	Neutrum	Beidseits {{c1::des}} {{c1::Weges::Weg}} wachsen Blumen.	
+J~U@2.TG;t	bezüglich	Genitiv	Neutrum	Bezüglich {{c1::des}} {{c1::Angebots::Angebot}} müssen wir uns entscheiden.	
+udfr.LW|.@	binnen	Genitiv	Neutrum	Binnen {{c1::des}} {{c1::Jahres::Jahre}} wird das Projekt abgeschlossen.	
+E2W>RT]<[s	bis	Akkusativ	Neutrum	Er arbeitet bis {{c1::den}} Morgen.	leech
+L<MVorDv$J	dank	Genitiv	Neutrum	Dank {{c1::des}} {{c1::Buches::Buch}} habe ich viel gelernt.	
+wf+quR.Myl	diesseits	Genitiv	Neutrum	Diesseits {{c1::des}} {{c1::Weges::Weg}} sehe ich ein Haus.	
+Hai|dED*wH	durch	Akkusativ	Neutrum	Der Hund geht durch {{c1::das}} Tor.	leech
+kLwIp^2ph<	entgegen	Dativ	Neutrum	Das Auto fährt entgegen {{c1::dem}} Verkehr.	leech
+"u#[anCLIfz"	entlang	Akkusativ	Neutrum	Das Boot fährt entlang {{c1::den}} Ufern.	leech
+Cn:wL]eRLw	entlang	Genitiv	Neutrum	Entlang {{c1::des}} {{c1::Weges::Weg}} stehen Bäume.	
+k94xbi-qlu	entsprechend	Dativ	Neutrum	Entsprechend {{c1::dem}} Wetter wird das Picknick stattfinden.	
+kT$Sy-JiE8	für	Akkusativ	Neutrum	Ich habe ein Buch für {{c1::das}} Kind gekauft.	
+"r/H:O!6KP#"	gegen	Akkusativ	Neutrum	Der Hund läuft gegen {{c1::das}} Tor.	leech
+Dtu!-X($DO	gegenüber	Dativ	Neutrum	Der Tisch steht gegenüber {{c1::dem}} Fenster.	leech
+xD:;/6CJEm	gemäß	Dativ	Neutrum	Gemäß {{c1::dem}} Plan müssen wir morgen gehen.	leech
+pqG?[+wZuz	hinsichtlich	Genitiv	Neutrum	Hinsichtlich {{c1::des}} {{c1::Ergebnisses::Ergebniss}} gibt es viele Meinungen.	
+qRCmg:mGHo	hinter	Dativ	Neutrum	Das Kind sitzt hinter {{c1::dem}} Stuhl.	leech
+P?g4O(&%O2	hinter	Akkusativ	Neutrum	Ich gehe hinter {{c1::das}} Haus.	leech
+"p?^PDYe%3#"	in	Dativ	Neutrum	Das Bild hängt in {{c1::dem}} Flur.	
+i;<;$59V/V	in	Akkusativ	Neutrum	Er geht in {{c1::das}} Büro.	leech
+Ay^qnW+o~E	infolge	Genitiv	Neutrum	Infolge {{c1::des}} {{c1::Gesprächs::Gespräch}} haben wir uns versöhnt.	
+BI;w1Eqm?G	inmitten	Genitiv	Neutrum	Inmitten {{c1::des}} {{c1::Gebirges::Gebirge}} gibt es ein Tal.	
+I-;VS_OiSJ	innerhalb	Genitiv	Neutrum	Innerhalb {{c1::des}} {{c1::Rahmens::Rahmen}} gibt es keine Einschränkungen.	
+"#{Co-%8oy"	jenseits	Genitiv	Neutrum	"Jenseits {{c1::des}} <span style=""color: rgb(0, 0, 0);"">{{c1::Waldes::Wald}}</span> beginnt das Dorf."	
+"H#2j`#6MV+"	kraft	Genitiv	Neutrum	Kraft {{c1::des}} {{c1::Vertrages::Vertrag}} ist die Zahlung fällig.	
+zA}oZ5_o([	lang	Akkusativ	Neutrum	Er läuft lang {{c1::das}} Feld.	leech
+Fc<LvgdcTz	laut	Dativ	Neutrum	Laut {{c1::dem}} Plan müssen wir uns beeilen.	
+"Pc/D4Td3#f"	laut	Genitiv	Neutrum	Laut {{c1::des}} {{c1::Zeugnisses::Zeugnis}} hat sie sehr gute Noten.	
+sR^0c@|zXe	mangels	Genitiv	Neutrum	Mangels {{c1::des}} {{c1::Interesses::Interesse}} wurde das Projekt eingestellt.	
+pl4]iu@Z48	mit	Dativ	Neutrum	Er spricht mit {{c1::dem}} Lehrer.	
+c.c/Y^J)68	mithilfe	Genitiv	Neutrum	Mithilfe {{c1::des}} {{c1::Programms::Programm}} können wir die Daten analysieren.	
+Q6*R_&-J2d	mittels	Genitiv	Neutrum	Mittels {{c1::des}} {{c1::Messers::Messer}} schneide ich das Brot.	
+nB$eqELJo9	nach	Dativ	Neutrum	Ich fahre nach {{c1::dem}} Urlaub zurück.	
+GY=MQ@VKf8	neben	Dativ	Neutrum	Das Bild hängt neben {{c1::dem}} Fenster.	leech
+x6,eU+^%}Q	neben	Akkusativ	Neutrum	Das Glas steht neben {{c1::das}} Fenster.	leech
+"x#ojO|jb{6"	oberhalb	Genitiv	Neutrum	Oberhalb {{c1::des}} {{c1::Flusses::Fluss}} kann man gut angeln.	
+c7f2oYWk$Z	ohne	Akkusativ	Neutrum	Er reist ohne {{c1::das}} Gepäck nach Hause.	
+Q8&Dn6!yPJ	seit	Dativ	Neutrum	Das Auto steht seit {{c1::dem}} Mittag hier.	leech
+j<v0^{unSJ	seitens	Genitiv	Neutrum	Seitens {{c1::des}} {{c1::Unternehmens::Unternehmen}} gab es eine Stellungnahme.	
+t6?LR=H{@i	statt / anstatt	Genitiv	Neutrum	Statt {{c1::des}} {{c1::Films::Film}} sehen wir eine Serie.	
+G{QjI$OqCt	trotz	Dativ	Neutrum	Trotz {{c1::dem}} Lärm kann ich schlafen.	
+b*p8xhSGeX	trotz	Genitiv	Neutrum	Trotz {{c1::des}} {{c1::Fehlens::Fehlen}} haben wir den Kurs beendet.	
+GiKHSGK?uV	über	Dativ	Neutrum	Der Teppich liegt über {{c1::dem}} Boden.	leech
+Mmf0B8(2^g	über	Akkusativ	Neutrum	Er klettert über {{c1::das}} Geländer.	leech
+"yECBEk#E*o"	um	Akkusativ	Neutrum	Der Ball rollt um {{c1::das}} Haus.	leech
+v(O_+N:8N`	um jmdn./etw. willen	Genitiv	Neutrum	Um {{c1::des}} {{c1::Wohlstandes::Wohlstand}} willen arbeitete er viel.	
+E@`|:RJVs=	ungeachtet	Genitiv	Neutrum	Ungeachtet {{c1::des}} {{c1::Wetters::Wetter}} gingen sie nach draußen.	
+m^KyLi;60y	unter	Dativ	Neutrum	Das Spielzeug liegt unter {{c1::dem}} Bett.	
+j)kW6PO:%I	unter	Akkusativ	Neutrum	Er rennt unter {{c1::das}} Dach.	
+w!ya4%v5o5	unterhalb	Genitiv	Neutrum	Unterhalb {{c1::des}} {{c1::Felsens::Felsen}} liegt das Meer.	
+xMX|6u)kEG	unweit	Genitiv	Neutrum	Unweit {{c1::des}} {{c1::Waldes::Wald}} gibt es einen kleinen Teich.	
+FzAx]QETJE	von	Dativ	Neutrum	Er fährt von {{c1::dem}} Flughafen nach Hause.	leech
+caXI)^i}~C	vonseiten	Genitiv	Neutrum	Vonseiten {{c1::der}} Schule gibt es Unterstützung.	
+i(j|?{)LLE	vor	Dativ	Neutrum	Das Auto steht vor {{c1::dem}} Tor.	leech
+kX%uV)8!W/	vor	Akkusativ	Neutrum	Er stellt das Glas vor {{c1::das}} Fenster.	leech
+ryX%z~F^WA	während	Dativ	Neutrum	Während {{c1::dem}} Unterricht war es sehr spannend.	leech
+mefDqa/=By	während	Genitiv	Neutrum	Während {{c1::des}} {{c1::Trainings::Training}} gab es eine Pause.	
+h4>cMH_9.`	wegen	Dativ	Neutrum	Wegen {{c1::dem}} Lärm können wir nicht schlafen.	leech
+ga*T9D?;79	wegen	Genitiv	Neutrum	Wegen {{c1::des}} {{c1::Sturms::Sturm}} ist der Flug abgesagt.	
+P[ES=^bW4^	wider	Akkusativ	Neutrum	Das Boot fährt wider {{c1::das}} Ufer.	
+dDZ6jZiJGN	zeit	Genitiv	Neutrum	Zeit {{c1::des}} {{c1::Lernens::Lernen}} ist wichtig.	
+"p)Uk710jI#"	zu	Dativ	Neutrum	Er geht zu {{c1::dem}} Bahnhof.	
+yb!|iNe{q)	zufolge	Dativ	Neutrum	Zufolge {{c1::dem}} Plan sind wir gut vorbereitet.	leech
+OKc<lf*~Y7	zugunsten	Genitiv	Neutrum	Zugunsten {{c1::des}} {{c1::Angebots::Angebot}} gab es viele Rabatte.	
+pnaLSF;LR7	zuliebe	Dativ	Neutrum	Er arbeitet zuliebe {{c1::dem}} Kind für eine bessere Zukunft.	leech
+i$ZX!^?s?	zuungunsten	Genitiv	Neutrum	Zuungunsten {{c1::des}} {{c1::Projekts::Projekt}} wurden viele Ressourcen verwendet.	
+tE71bcy+Af	zwecks	Genitiv	Neutrum	Zwecks {{c1::des}} {{c2::Gesprächs::Gespräch}} haben wir uns getroffen.	
+qLJy$9P:;L	zwischen	Dativ	Neutrum	Das Bild hängt zwischen {{c1::dem}} Fenster und {{c2::der}} Tür.	leech
+h&[jVUKNu*	zwischen	Akkusativ	Neutrum	Ich lege das Buch zwischen {{c1::das}} Regal und {{c2::den}} Stuhl.	leech
+sfHAXF6I^*	ab	Dativ	Plural	Ab {{c1::den}} nächsten Tagen wird das Wetter besser.	
+BQ?N5K|bAi	abseits	Genitiv	Plural	Die Kinder spielen abseits {{c1::der}} Straße.	leech
+qaprX1YhWF	an	Dativ	Plural	Die Kinder spielen an {{c1::den}} Tischen.	
+PvAV+0Kb$7	an	Akkusativ	Plural	Sie gehen an {{c1::die}} Häuser.	
+h3`!rU_)Om	angesichts	Genitiv	Plural	Angesichts {{c1::der}} Umstände müssen wir uns ändern.	
+CxZw,GcFI=	anhand	Genitiv	Plural	Anhand {{c1::der}} Karten können wir den Weg finden.	
+h@5k+`ejA~	anlässlich	Genitiv	Plural	Anlässlich {{c1::der}} Ferien planen wir einen Ausflug.	leech
+GOI6_$.tr;	anstelle	Genitiv	Plural	Anstelle {{c1::der}} alten Bücher stehen neue Regale.	
+jh!5[64lo%	auf	Dativ	Plural	Die Kinder spielen auf {{c1::den}} Rasenflächen.	leech
+rcQq0y3%aI	auf	Akkusativ	Plural	Die Kinder springen auf {{c1::die}} Steine.	leech
+CXR|LI3ln0	aufgrund	Genitiv	Plural	Aufgrund {{c1::der}} Ereignisse haben sie die Reise abgesagt.	
+"cd4`V?O#(Y"	aus	Dativ	Plural	Die Kinder kommen aus {{c1::den}} Zimmern.	
+Qv0,<lj)/U	außerhalb	Genitiv	Plural	Außerhalb {{c1::der}} Städte gibt es viele Felder.	
+I}BGdd.{+q	bei	Dativ	Plural	Die Kinder spielen bei {{c1::den}} Häusern.	leech
+D{;^dPQQ.^	beidseits / beiderseits	Genitiv	Plural	Beidseits {{c1::der}} Straße stehen Häuser.	
+mCuh/EV:2o	bezüglich	Genitiv	Plural	Bezüglich {{c1::der}} Regeln gibt es einige Unklarheiten.	leech
+"Fv#{[hU]hF"	binnen	Genitiv	Plural	Binnen {{c1::der}} nächsten Monate werder die Arbeiten enden.	leech
+r&WfWUK^dA	bis	Akkusativ	Plural	Sie bleiben bis {{c1::die}} Ferien vorbei sind.	leech
+"F3Ro##DJDf"	dank	Genitiv	Plural	Dank {{c1::der}} Unterstützung haben wir das Ziel erreicht.	
+O1iLj;y%4y	diesseits	Genitiv	Plural	Diesseits {{c1::der}} Straße gibt es einen Park.	
+"F#H$]<#U/t"	durch	Akkusativ	Plural	Wir fahren durch {{c1::die}} Städte.	
+nN0SMY7VnU	entgegen	Dativ	Plural	Die Gruppe geht entgegen {{c1::den}} Richtlinien.	leech
+N!i1X;y7&t	entlang	Akkusativ	Plural	Die Kinder laufen entlang {{c1::die}} Wege.	leech
+ehr[au.8Nz	entlang	Genitiv	Plural	Entlang {{c1::der}} Straßen gibt es Läden.	leech
+y8t+N{qdL5	entsprechend	Dativ	Plural	Entsprechend {{c1::den}} Regeln müssen wir uns anpassen.	leech
+k$$?,+;V9_	für	Akkusativ	Plural	Ich habe Geschenke für {{c1::die}} Kinder gekauft.	leech
+k7uFZ%CypE	gegen	Akkusativ	Plural	Die Menschen kämpfen gegen {{c1::die}} Regeln.	leech
+w%-iBC01Ro	gegenüber	Dativ	Plural	Die Geschäfte sind gegenüber {{c1::den}} Restaurants.	leech
+tQ}<=AU%GF	gemäß	Dativ	Plural	Gemäß {{c1::den}} Vorschriften sollten wir warten.	leech
+J(l,4+%{`l	hinsichtlich	Genitiv	Plural	Hinsichtlich {{c1::der}} Pläne gibt es unterschiedliche Ansichten.	
+fUBoM?q_AY	hinter	Dativ	Plural	Die Bücher stehen hinter {{c1::den}} Tischen.	
+tbWPP5aurN	hinter	Akkusativ	Plural	Wir fahren hinter {{c1::die}} Häuser.	leech
+o[t{Mr~eIx	in	Dativ	Plural	Die Kinder spielen in {{c1::den}} Gärten.	
+IaPB0+JcLS	in	Akkusativ	Plural	Wir gehen in {{c1::die}} Städte.	leech
+F,07G(PO_k	infolge	Genitiv	Plural	Infolge {{c1::der}} Regelungen müssen wir die Termin verschieben.	leech
+KS)5k$ZVPg	inmitten	Genitiv	Plural	Inmitten {{c1::der}} Städte gibt es Parks.	
+nkD]S/bC0/	innerhalb	Genitiv	Plural	Innerhalb {{c1::der}} Grenzen gibt es keine Gefahren.	
+hxUX}a+cZK	jenseits	Genitiv	Plural	Jenseits {{c1::der}} Berge liegt eine große Stadt.	
+"O*PS#a0b*A"	kraft	Genitiv	Plural	Kraft {{c1::der}} neuen Regeln müssen alle Mitarbeiter teilnehmen.	
+LA^.&f%h:n	lang	Akkusativ	Plural	Wir fahren lang {{c1::die}} Küste.	
+KY|Abc]Q<`	laut	Dativ	Plural	Laut {{c1::den}} Regeln dürfen wir nicht rauchen.	leech
+jy^ovNc7@(	laut	Genitiv	Plural	Laut {{c1::der}} Vorschriften müssen wir pünktlich sein.	leech
+u;WExjSIQ>	mangels	Genitiv	Plural	Mangels {{c1::der}} Unterstützung hat das Team aufgegeben.	
+s)t>B&oj$C	mit	Dativ	Plural	Sie spielen mit {{c1::den}} Kindern im Garten.	
+b<?O)t,LyS	mithilfe	Genitiv	Plural	Mithilfe {{c1::der}} Freiwilligen wurden die Aufgaben schnell erledigt.	
+d=`=%r0;)L	mittels	Genitiv	Plural	Mittels {{c1::der}} Technologie können wir besser kommunizieren.	
+rF~DRD8@Yq	nach	Dativ	Plural	Wir gehen nach {{c1::den}} Ferien wieder zur Schule.	leech
+ea06R3O{QR	neben	Dativ	Plural	Die Stühle stehen neben {{c1::den}} Tischen.	
+fC].{N>h9J	neben	Akkusativ	Plural	Die Kinder gehen neben {{c1::die}} Häuser.	
+f0gs]xVcm{	oberhalb	Genitiv	Plural	Oberhalb {{c1::der}} Stadt liegt ein Naturpark.	
+hzt7+6G)BW	ohne	Akkusativ	Plural	Wir gehen ohne {{c1::die}} Bücher in die Bibliothek.	leech
+e.3N:@r3.4	seit	Dativ	Plural	Die Kinder spielen seit {{c1::den}} Ferien im Park.	
+uF/G!O1r9[	seitens	Genitiv	Plural	Seitens {{c1::der}} Organisation gibt es neue Anforderungen.	
+dwgzu1*L~S	statt / anstatt	Genitiv	Plural	Anstatt {{c1::der}} Karten haben sie das Ticket online gekauft.	leech
+o*ds;DAbyp	trotz	Dativ	Plural	Trotz {{c1::den}} Hindernissen haben wir das Ziel erreicht.	leech
+MY!Nk.F4S=	trotz	Genitiv	Plural	Trotz {{c1::der}} Schwierigkeiten haben sie gewonnen.	leech
+tx;9Jov(5W	über	Dativ	Plural	Die Kinder springen über {{c1::den}} Zaun.	
+ihiyTjUXBl	über	Akkusativ	Plural	Wir laufen über {{c1::die}} Brücken.	leech
+g|.2,uEkwL	um	Akkusativ	Plural	Die Kinder rennen um {{c1::die}} Häuser.	
+r&{Z},LDbX	um jmdn./etw. willen	Genitiv	Plural	Um {{c1::der}} Sache willen haben sie alles getan.	leech
+e.(K==z+Zf	ungeachtet	Genitiv	Plural	Ungeachtet {{c1::der}} Hindernisse gaben sie nicht auf.	
+F!l,2o]pX*	unter	Dativ	Plural	Die Kinder spielen unter {{c1::den}} Bäumen.	leech
+zEd;0uzy71	unter	Akkusativ	Plural	Sie laufen unter {{c1::die}} Zelte.	
+dFEpaNSiGy	unterhalb	Genitiv	Plural	Unterhalb {{c1::der}} Stadt fließt der Fluss.	
+eBH!<Z[Y!^	unweit	Genitiv	Plural	Unweit {{c1::der}} Kirche gibt es einen Platz.	leech
+p3|Ae}FXLR	von	Dativ	Plural	Die Kinder kommen von {{c1::den}} Nachbarn zurück.	leech
+nqYVz|t1AG	vonseiten	Genitiv	Plural	Vonseiten {{c1::der}} Eltern gibt es viel Zustimmung.	leech
+Hg7.H(:SHq	vor	Dativ	Plural	Die Kinder spielen vor {{c1::den}} Häusern.	leech
+eS^NGD}.iI	vor	Akkusativ	Plural	Wir stellen die Stühle vor {{c1::die}} Tische.	leech
+diFawMHc:/	während	Dativ	Plural	Während {{c1::den}} Ferien machen wir einen Ausflug.	leech
+"HnM#`55uJ]"	während	Genitiv	Plural	Während {{c1::der}} Reise gab es viele interessante Orte.	
+k(kj|^hjHD	wegen	Dativ	Plural	Wegen {{c1::den}} Fehlern müssen wir noch einmal anfangen.	leech
+BB_|)Te2Sh	wegen	Genitiv	Plural	Wegen {{c1::der}} Verzögerungen haben wir den Termin verschoben.	leech
+p<f;p-*I)%	wider	Akkusativ	Plural	Sie kämpfen wider {{c1::die}} Ungerechtigkeit.	
+divo;eR<HZ	zeit	Genitiv	Plural	Zeit {{c1::der}} Erlebnisse ist kostbar.	
+f0%&(n)`e[	zu	Dativ	Plural	Wir fahren zu {{c1::den}} Freunden.	leech
+Gw2g)5Ds@t	zufolge	Dativ	Plural	Zufolge {{c1::den}} Anweisungen haben sie alles richtig gemacht.	leech
+LDK]MPs0re	zugunsten	Genitiv	Plural	Zugunsten {{c1::der}} Teilnehmer wurde der Termin verschoben.	
+LbZ:;Ba),U	zuliebe	Dativ	Plural	Sie macht es zuliebe {{c1::den}} Tieren um zu helfen.	leech
+D5AVDeld2N	zuungunsten	Genitiv	Plural	Zuungunsten {{c1::der}} Regeln wurde eine Strafe verhängt.	leech
+w1v[RQ!4a,	zwecks	Genitiv	Plural	Zwecks {{c1::der}} Auswertung wurden die Daten gesammelt.	
+Q|{p>agj~p	zwischen	Dativ	Plural	Die Kinder spielen zwischen {{c1::den}} Bäumen im Park.	leech
+qf[)b7O%g$	zwischen	Akkusativ	Plural	Sie setzen sich zwischen {{c1::die}} Bänke im Park.	
